@@ -183,8 +183,6 @@ In Power BI: set the spike series to **no line + large marker (size 12)** and da
 | Surface | `#131929` | Card and panel background |
 | Border | `#1F2E47` | Gridlines and card borders |
 
-**Tier color mapping (use consistently across all pages):**
-
 ```
 Star   → Blue   #2E9BFF
 Nova   → Gold   #F5A623
