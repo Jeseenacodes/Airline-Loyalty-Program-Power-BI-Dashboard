@@ -297,6 +297,9 @@ Aurora → Purple #9B6BFF
 - **Tabular model** — compatibility level 1600, star schema design
 
 ---
+## Screenshots
+
+<img width="1241" height="752" alt="image" src="https://github.com/user-attachments/assets/ddc76d92-dae0-4752-b6a7-cbf2311c84e6" />
 
 ## Repository Structure
 
