@@ -362,3 +362,23 @@ Save as `AirlineLoyaltyDark.json` and import via **View → Themes → Browse fo
 ---
 
 *Built with Power BI Desktop · DAX · Power BI · 16,737 members · 508,808 flights · $133.7M CLV*
+
+## Old Dashboard 
+Linkedin post: https://www.linkedin.com/posts/activity-7455288564864577536-cIeF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF0HMosBCwWtZDjWY982g72-fhT3ov8dzKc 
+<img width="1252" height="705" alt="image" src="https://github.com/user-attachments/assets/2344320a-efa9-46c3-90f9-0201004be1d6" />
+
+<img width="1263" height="652" alt="image" src="https://github.com/user-attachments/assets/3c425459-8630-4514-9a3b-6bdc675f660f" />
+
+<img width="879" height="597" alt="image" src="https://github.com/user-attachments/assets/adf165d4-13aa-4bcd-9810-1cfeae966fda" />
+
+<img width="1182" height="672" alt="image" src="https://github.com/user-attachments/assets/7baa52e3-f6be-4a68-9f00-a5d708d3fc9f" />
+
+
+
+
+
+
+
+
+
+
